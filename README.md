@@ -20,5 +20,5 @@ Knowledge & Trivia
 comics facts
 
 #### Geographical region endpoint
-North America (Virginia)
-arn:aws:lambda:us-east-1:843830492153:function:ComicsFacts
+* North America (Virginia)
+* arn:aws:lambda:us-east-1:843830492153:function:ComicsFacts
