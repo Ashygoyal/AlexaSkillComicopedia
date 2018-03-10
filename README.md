@@ -12,9 +12,9 @@ Games, Trivia & Accessories
 Knowledge & Trivia
 
 ### Example phrases
-* *'Alexa launch comics facts'
-* *'Alexa start comics facts'
-* *'Alexa open comics facts'
+* *'Alexa launch comics facts'*
+* *'Alexa start comics facts'*
+* *'Alexa open comics facts'*
 
 ### Invocation name
 comics facts
