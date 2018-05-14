@@ -1,3 +1,5 @@
+#### Please note that this skill is live on Alexa Skill Store
+
 # AlexaSkillComicopedia
 Alexa skill for instagram.com/comicopedia
 
